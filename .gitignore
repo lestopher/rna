@@ -21,3 +21,6 @@ _testmain.go
 
 *.exe
 *.test
+
+# Ignore stuff in the compiled_html folder
+compiled_html/*.html
